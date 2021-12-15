@@ -1,0 +1,13 @@
+{
+    "name": "gersonschwinn/phpunit8-union-type-mock",
+    "require-dev": {
+        "phpunit/phpunit": "~8.5"
+    },
+    "authors": [
+        {
+            "name": "Gerson Felipe Schwinn",
+            "email": "gerson@onehost.com.br"
+        }
+    ],
+    "require": {}
+}
