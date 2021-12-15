@@ -1,5 +1,4 @@
 <?php
-require_once 'vendor/autoload.php';
 
 class CreateMock extends \PHPUnit\Framework\TestCase {
 
